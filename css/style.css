@@ -711,6 +711,9 @@ a:focus {
 
 .client_section .box .img-box img {
   border-radius: 100%;
+  width: 105px;
+  height: 105px;
+  
 }
 
 .client_section .box .client_id {
